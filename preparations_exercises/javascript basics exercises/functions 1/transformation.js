@@ -1,0 +1,1 @@
+console.log('Captain Ruby'.slice(0, 7).concat(' JavaScript'))
