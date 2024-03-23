@@ -1,1 +1,0 @@
-return Number.MAX_VALUE;
